@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.4">
   <diagram name="第 1 页" id="_bjrk9O0X-5HI61nbsND">
-    <mxGraphModel dx="2792" dy="2412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2256" dy="2073" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,16 +34,16 @@
             <mxPoint x="20" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Wzhaq-VST7c-N1qtRK_3-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="暂无" vertex="1">
+        <mxCell id="Wzhaq-VST7c-N1qtRK_3-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="暂无" vertex="1">
           <mxGeometry height="40" width="60" x="-40" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="Wzhaq-VST7c-N1qtRK_3-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="L链" vertex="1">
+        <mxCell id="Wzhaq-VST7c-N1qtRK_3-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="L链" vertex="1">
           <mxGeometry height="40" width="60" x="-40" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="Wzhaq-VST7c-N1qtRK_3-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="应答机" vertex="1">
+        <mxCell id="Wzhaq-VST7c-N1qtRK_3-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="应答机" vertex="1">
           <mxGeometry height="40" width="60" x="-40" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="Wzhaq-VST7c-N1qtRK_3-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="暂无" vertex="1">
+        <mxCell id="Wzhaq-VST7c-N1qtRK_3-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="暂无" vertex="1">
           <mxGeometry height="40" width="60" x="-40" y="160" as="geometry" />
         </mxCell>
         <mxCell id="Wzhaq-VST7c-N1qtRK_3-13" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Wzhaq-VST7c-N1qtRK_3-14" value="">
@@ -52,16 +52,16 @@
             <mxPoint x="278" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Wzhaq-VST7c-N1qtRK_3-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="UART0" vertex="1">
+        <mxCell id="Wzhaq-VST7c-N1qtRK_3-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="UART0" vertex="1">
           <mxGeometry height="30" width="60" x="280" y="105" as="geometry" />
         </mxCell>
-        <mxCell id="Wzhaq-VST7c-N1qtRK_3-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="530 Bytes" vertex="1">
+        <mxCell id="Wzhaq-VST7c-N1qtRK_3-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=12;" value="530 Bytes" vertex="1">
           <mxGeometry height="30" width="60" x="190" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="Wzhaq-VST7c-N1qtRK_3-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="100ms" vertex="1">
+        <mxCell id="Wzhaq-VST7c-N1qtRK_3-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=12;" value="100ms" vertex="1">
           <mxGeometry height="30" width="60" x="190" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="Wzhaq-VST7c-N1qtRK_3-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="飞控" vertex="1">
+        <mxCell id="Wzhaq-VST7c-N1qtRK_3-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="飞控" vertex="1">
           <mxGeometry height="40" width="60" x="100" y="240" as="geometry" />
         </mxCell>
         <mxCell id="Wzhaq-VST7c-N1qtRK_3-18" edge="1" parent="1" source="Wzhaq-VST7c-N1qtRK_3-17" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
@@ -73,7 +73,7 @@
         <mxCell id="Wzhaq-VST7c-N1qtRK_3-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="存飞参" vertex="1">
           <mxGeometry height="30" width="60" x="190" y="230" as="geometry" />
         </mxCell>
-        <mxCell id="Wzhaq-VST7c-N1qtRK_3-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="UART3" vertex="1">
+        <mxCell id="Wzhaq-VST7c-N1qtRK_3-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="UART3" vertex="1">
           <mxGeometry height="30" width="60" x="280" y="245" as="geometry" />
         </mxCell>
         <mxCell id="Wzhaq-VST7c-N1qtRK_3-21" edge="1" parent="1" source="Wzhaq-VST7c-N1qtRK_3-1" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="Wzhaq-VST7c-N1qtRK_3-22" value="">
@@ -82,10 +82,10 @@
             <mxPoint x="160" y="374" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Wzhaq-VST7c-N1qtRK_3-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="接口板" vertex="1">
+        <mxCell id="Wzhaq-VST7c-N1qtRK_3-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="接口板" vertex="1">
           <mxGeometry height="40" width="60" x="100" y="340" as="geometry" />
         </mxCell>
-        <mxCell id="Wzhaq-VST7c-N1qtRK_3-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="PCIE" vertex="1">
+        <mxCell id="Wzhaq-VST7c-N1qtRK_3-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="PCIE" vertex="1">
           <mxGeometry height="30" width="60" x="280" y="345" as="geometry" />
         </mxCell>
         <mxCell id="Wzhaq-VST7c-N1qtRK_3-24" edge="1" parent="1" source="Wzhaq-VST7c-N1qtRK_3-27" style="endArrow=classic;html=1;rounded=0;entryX=0.083;entryY=1.006;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="Wzhaq-VST7c-N1qtRK_3-31" value="">
@@ -106,13 +106,13 @@
             <mxPoint x="560" y="439" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Wzhaq-VST7c-N1qtRK_3-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="前视" vertex="1">
+        <mxCell id="Wzhaq-VST7c-N1qtRK_3-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="前视" vertex="1">
           <mxGeometry height="30" width="60" x="330" y="519" as="geometry" />
         </mxCell>
-        <mxCell id="Wzhaq-VST7c-N1qtRK_3-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="后视" vertex="1">
+        <mxCell id="Wzhaq-VST7c-N1qtRK_3-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="后视" vertex="1">
           <mxGeometry height="30" width="60" x="430" y="519" as="geometry" />
         </mxCell>
-        <mxCell id="Wzhaq-VST7c-N1qtRK_3-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="载荷" vertex="1">
+        <mxCell id="Wzhaq-VST7c-N1qtRK_3-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="载荷" vertex="1">
           <mxGeometry height="30" width="60" x="530" y="519" as="geometry" />
         </mxCell>
         <mxCell id="Wzhaq-VST7c-N1qtRK_3-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="网口" vertex="1">
@@ -145,16 +145,16 @@
             <mxPoint x="640" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Wzhaq-VST7c-N1qtRK_3-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="UART4" vertex="1">
+        <mxCell id="Wzhaq-VST7c-N1qtRK_3-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="UART4" vertex="1">
           <mxGeometry height="30" width="60" x="580" y="105" as="geometry" />
         </mxCell>
-        <mxCell id="Wzhaq-VST7c-N1qtRK_3-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="UART7" vertex="1">
+        <mxCell id="Wzhaq-VST7c-N1qtRK_3-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="UART7" vertex="1">
           <mxGeometry height="30" width="60" x="580" y="225" as="geometry" />
         </mxCell>
-        <mxCell id="Wzhaq-VST7c-N1qtRK_3-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="UART9" vertex="1">
+        <mxCell id="Wzhaq-VST7c-N1qtRK_3-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="UART9" vertex="1">
           <mxGeometry height="30" width="60" x="580" y="345" as="geometry" />
         </mxCell>
-        <mxCell id="Wzhaq-VST7c-N1qtRK_3-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="数据链" vertex="1">
+        <mxCell id="Wzhaq-VST7c-N1qtRK_3-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="数据链" vertex="1">
           <mxGeometry height="40" width="60" x="760" y="100" as="geometry" />
         </mxCell>
         <mxCell id="Wzhaq-VST7c-N1qtRK_3-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="遥控遥测帧" vertex="1">
@@ -169,10 +169,10 @@
         <mxCell id="Wzhaq-VST7c-N1qtRK_3-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="应答机指令&lt;div&gt;（双向）&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="95" x="655" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="Wzhaq-VST7c-N1qtRK_3-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="飞控" vertex="1">
+        <mxCell id="Wzhaq-VST7c-N1qtRK_3-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="飞控" vertex="1">
           <mxGeometry height="40" width="60" x="760" y="340" as="geometry" />
         </mxCell>
-        <mxCell id="Wzhaq-VST7c-N1qtRK_3-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="载荷" vertex="1">
+        <mxCell id="Wzhaq-VST7c-N1qtRK_3-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="载荷" vertex="1">
           <mxGeometry height="40" width="60" x="760" y="220" as="geometry" />
         </mxCell>
         <mxCell id="Wzhaq-VST7c-N1qtRK_3-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="飞行参数（UART9）" vertex="1">
@@ -186,6 +186,18 @@
         </mxCell>
         <mxCell id="Wzhaq-VST7c-N1qtRK_3-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;综合计算机数据处理&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="306" x="177" y="-60" as="geometry" />
+        </mxCell>
+        <mxCell id="0d2Chm3cxto3F8ed2Xur-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ch1" vertex="1">
+          <mxGeometry height="30" width="60" x="20" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0d2Chm3cxto3F8ed2Xur-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ch2" vertex="1">
+          <mxGeometry height="30" width="60" x="20" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0d2Chm3cxto3F8ed2Xur-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ch3" vertex="1">
+          <mxGeometry height="30" width="60" x="20" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="0d2Chm3cxto3F8ed2Xur-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ch4" vertex="1">
+          <mxGeometry height="30" width="60" x="20" y="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
