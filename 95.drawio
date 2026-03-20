@@ -22,10 +22,10 @@
         <mxCell id="FJUeLi_HETRFmbpACcdS-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="载荷接口1" vertex="1">
           <mxGeometry height="40" width="80" x="120" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="FJUeLi_HETRFmbpACcdS-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="载荷接口1" vertex="1">
+        <mxCell id="FJUeLi_HETRFmbpACcdS-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="载荷接口2" vertex="1">
           <mxGeometry height="40" width="80" x="120" y="190" as="geometry" />
         </mxCell>
-        <mxCell id="FJUeLi_HETRFmbpACcdS-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="载荷接口1" vertex="1">
+        <mxCell id="FJUeLi_HETRFmbpACcdS-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="载荷接口3" vertex="1">
           <mxGeometry height="40" width="80" x="120" y="260" as="geometry" />
         </mxCell>
         <mxCell id="FJUeLi_HETRFmbpACcdS-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="数据链" vertex="1">
