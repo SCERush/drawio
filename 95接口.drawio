@@ -12,13 +12,13 @@
             <mxPoint x="320" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-c5naS9hgRaYut2M-Iny-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="载荷接口1、4" vertex="1">
-          <mxGeometry height="40" width="80" x="80" y="120" as="geometry" />
+        <mxCell id="-c5naS9hgRaYut2M-Iny-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="前视摄像头、&lt;br&gt;通信侦察干扰载荷" vertex="1">
+          <mxGeometry height="40" width="100" x="60" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="-c5naS9hgRaYut2M-Iny-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="载荷接口2" vertex="1">
+        <mxCell id="-c5naS9hgRaYut2M-Iny-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="巡飞弹" vertex="1">
           <mxGeometry height="40" width="80" x="80" y="170" as="geometry" />
         </mxCell>
-        <mxCell id="-c5naS9hgRaYut2M-Iny-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="载荷接口3" vertex="1">
+        <mxCell id="-c5naS9hgRaYut2M-Iny-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="卫通" vertex="1">
           <mxGeometry height="40" width="80" x="80" y="220" as="geometry" />
         </mxCell>
         <mxCell id="-c5naS9hgRaYut2M-Iny-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="数据链" vertex="1">
