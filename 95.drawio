@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.3.7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.4">
   <diagram name="第 1 页" id="P7U0p2YBgUwdi0rxASiN">
     <mxGraphModel dx="786" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,16 +19,16 @@
         <mxCell id="FJUeLi_HETRFmbpACcdS-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;载荷控制&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;与&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;反馈&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="40" x="320" y="140" as="geometry" />
         </mxCell>
-        <mxCell id="FJUeLi_HETRFmbpACcdS-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="载荷接口1、4" vertex="1">
+        <mxCell id="FJUeLi_HETRFmbpACcdS-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="前视摄像头、&lt;br&gt;电子对抗载荷" vertex="1">
           <mxGeometry height="40" width="80" x="120" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="FJUeLi_HETRFmbpACcdS-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="载荷接口2" vertex="1">
+        <mxCell id="FJUeLi_HETRFmbpACcdS-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="S数据链" vertex="1">
           <mxGeometry height="40" width="80" x="120" y="190" as="geometry" />
         </mxCell>
-        <mxCell id="FJUeLi_HETRFmbpACcdS-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="载荷接口3、4" vertex="1">
+        <mxCell id="FJUeLi_HETRFmbpACcdS-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="卫通载荷" vertex="1">
           <mxGeometry height="40" width="80" x="120" y="260" as="geometry" />
         </mxCell>
-        <mxCell id="FJUeLi_HETRFmbpACcdS-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="数据链" vertex="1">
+        <mxCell id="FJUeLi_HETRFmbpACcdS-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="L数据链" vertex="1">
           <mxGeometry height="40" width="80" x="120" y="330" as="geometry" />
         </mxCell>
         <mxCell id="FJUeLi_HETRFmbpACcdS-14" edge="1" parent="1" source="FJUeLi_HETRFmbpACcdS-8" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.001;entryY=0.624;entryDx=0;entryDy=0;entryPerimeter=0;" target="FJUeLi_HETRFmbpACcdS-1" value="">
