@@ -1,114 +1,87 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.3.7">
-  <diagram name="第 1 页" id="P7U0p2YBgUwdi0rxASiN">
+  <diagram name="第 1 页" id="NlSPOMpl6no0FbNGVIRb">
     <mxGraphModel dx="786" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FJUeLi_HETRFmbpACcdS-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="320" width="200" x="280" y="80" as="geometry" />
+        <mxCell id="-c5naS9hgRaYut2M-Iny-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;载荷控制软件&lt;/font&gt;" vertex="1">
+          <mxGeometry height="200" width="40" x="240" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="FJUeLi_HETRFmbpACcdS-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;智能增量计算机&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="140" x="310" y="100" as="geometry" />
-        </mxCell>
-        <mxCell id="FJUeLi_HETRFmbpACcdS-5" edge="1" parent="1" source="FJUeLi_HETRFmbpACcdS-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FJUeLi_HETRFmbpACcdS-4" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FJUeLi_HETRFmbpACcdS-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;接收飞控指令与&lt;br&gt;规划数据&lt;/font&gt;" vertex="1">
-          <mxGeometry height="140" width="40" x="400" y="140" as="geometry" />
-        </mxCell>
-        <mxCell id="FJUeLi_HETRFmbpACcdS-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;载荷控制&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;与&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;反馈&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="40" x="320" y="140" as="geometry" />
-        </mxCell>
-        <mxCell id="FJUeLi_HETRFmbpACcdS-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="载荷接口1、4" vertex="1">
-          <mxGeometry height="40" width="80" x="120" y="120" as="geometry" />
-        </mxCell>
-        <mxCell id="FJUeLi_HETRFmbpACcdS-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="载荷接口2" vertex="1">
-          <mxGeometry height="40" width="80" x="120" y="190" as="geometry" />
-        </mxCell>
-        <mxCell id="FJUeLi_HETRFmbpACcdS-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="载荷接口3" vertex="1">
-          <mxGeometry height="40" width="80" x="120" y="260" as="geometry" />
-        </mxCell>
-        <mxCell id="FJUeLi_HETRFmbpACcdS-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="数据链" vertex="1">
-          <mxGeometry height="40" width="80" x="120" y="330" as="geometry" />
-        </mxCell>
-        <mxCell id="FJUeLi_HETRFmbpACcdS-14" edge="1" parent="1" source="FJUeLi_HETRFmbpACcdS-8" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.001;entryY=0.624;entryDx=0;entryDy=0;entryPerimeter=0;" target="FJUeLi_HETRFmbpACcdS-1" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="200" y="290" as="sourcePoint" />
-            <mxPoint x="250" y="240" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FJUeLi_HETRFmbpACcdS-15" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="FJUeLi_HETRFmbpACcdS-7" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="280" y="210" as="sourcePoint" />
-            <mxPoint x="290" y="190" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FJUeLi_HETRFmbpACcdS-16" edge="1" parent="1" source="FJUeLi_HETRFmbpACcdS-9" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="240" y="340" as="sourcePoint" />
-            <mxPoint x="280" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FJUeLi_HETRFmbpACcdS-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="飞行控制&lt;div&gt;与管理软件&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="80" x="560" y="180" as="geometry" />
-        </mxCell>
-        <mxCell id="FJUeLi_HETRFmbpACcdS-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="集群协同&lt;div&gt;中转软件&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="80" x="560" y="300" as="geometry" />
-        </mxCell>
-        <mxCell id="FJUeLi_HETRFmbpACcdS-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="RS422" vertex="1">
-          <mxGeometry height="30" width="60" x="490" y="170" as="geometry" />
-        </mxCell>
-        <mxCell id="FJUeLi_HETRFmbpACcdS-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="网口" vertex="1">
-          <mxGeometry height="30" width="60" x="490" y="290" as="geometry" />
-        </mxCell>
-        <mxCell id="FJUeLi_HETRFmbpACcdS-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="RS422" vertex="1">
-          <mxGeometry height="30" width="60" x="210" y="110" as="geometry" />
-        </mxCell>
-        <mxCell id="FJUeLi_HETRFmbpACcdS-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="网口" vertex="1">
-          <mxGeometry height="30" width="60" x="210" y="180" as="geometry" />
-        </mxCell>
-        <mxCell id="FJUeLi_HETRFmbpACcdS-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="RS422" vertex="1">
-          <mxGeometry height="30" width="60" x="210" y="250" as="geometry" />
-        </mxCell>
-        <mxCell id="FJUeLi_HETRFmbpACcdS-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="RS422" vertex="1">
-          <mxGeometry height="30" width="60" x="210" y="320" as="geometry" />
-        </mxCell>
-        <mxCell id="FJUeLi_HETRFmbpACcdS-32" edge="1" parent="1" source="FJUeLi_HETRFmbpACcdS-1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.374;exitDx=0;exitDy=0;exitPerimeter=0;" target="FJUeLi_HETRFmbpACcdS-17" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="400" y="240" as="sourcePoint" />
-            <mxPoint x="450" y="190" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FJUeLi_HETRFmbpACcdS-33" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.999;exitY=0.358;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="480" y="319.17" as="sourcePoint" />
-            <mxPoint x="560" y="319.17" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FJUeLi_HETRFmbpACcdS-38" edge="1" parent="1" source="FJUeLi_HETRFmbpACcdS-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="FJUeLi_HETRFmbpACcdS-37">
+        <mxCell id="-c5naS9hgRaYut2M-Iny-3" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="280" as="sourcePoint" />
+            <mxPoint x="320" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FJUeLi_HETRFmbpACcdS-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;协同控制&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="40" x="320" y="240" as="geometry" />
+        <mxCell id="-c5naS9hgRaYut2M-Iny-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="前视摄像头&lt;br&gt;通信侦察干扰载荷" vertex="1">
+          <mxGeometry height="40" width="100" x="60" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="FJUeLi_HETRFmbpACcdS-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;规划&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;与&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;协同指令&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="40" x="320" y="290" as="geometry" />
+        <mxCell id="-c5naS9hgRaYut2M-Iny-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="巡飞弹" vertex="1">
+          <mxGeometry height="40" width="80" x="80" y="170" as="geometry" />
         </mxCell>
-        <mxCell id="FJUeLi_HETRFmbpACcdS-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;飞行控制与&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;管理&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="40" x="400" y="290" as="geometry" />
+        <mxCell id="-c5naS9hgRaYut2M-Iny-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="卫通" vertex="1">
+          <mxGeometry height="40" width="80" x="80" y="220" as="geometry" />
         </mxCell>
-        <mxCell id="FJUeLi_HETRFmbpACcdS-41" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="FJUeLi_HETRFmbpACcdS-40" value="">
+        <mxCell id="-c5naS9hgRaYut2M-Iny-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="数据链" vertex="1">
+          <mxGeometry height="40" width="80" x="80" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="-c5naS9hgRaYut2M-Iny-10" edge="1" parent="1" source="-c5naS9hgRaYut2M-Iny-8" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="360" y="330" as="sourcePoint" />
-            <mxPoint x="350" y="280" as="targetPoint" />
+            <mxPoint x="160" y="290" as="sourcePoint" />
+            <mxPoint x="240" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-yjdLRFRVeEzjYulkgjf-1" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.001;entryY=0.624;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+        <mxCell id="-c5naS9hgRaYut2M-Iny-11" edge="1" parent="1" source="-c5naS9hgRaYut2M-Iny-1" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=-0.008;exitY=0.349;exitDx=0;exitDy=0;exitPerimeter=0;" target="-c5naS9hgRaYut2M-Iny-7" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="200" y="139.52" as="sourcePoint" />
-            <mxPoint x="280" y="139.52" as="targetPoint" />
+            <mxPoint x="240" y="210" as="sourcePoint" />
+            <mxPoint x="250" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-c5naS9hgRaYut2M-Iny-12" edge="1" parent="1" source="-c5naS9hgRaYut2M-Iny-9" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.85;entryDx=0;entryDy=0;entryPerimeter=0;" target="-c5naS9hgRaYut2M-Iny-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="200" y="340" as="sourcePoint" />
+            <mxPoint x="240" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-c5naS9hgRaYut2M-Iny-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="飞行控制&lt;div&gt;与管理软件&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="360" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-c5naS9hgRaYut2M-Iny-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="集群协同&lt;div&gt;中转软件&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="360" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="-c5naS9hgRaYut2M-Iny-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="RS422" vertex="1">
+          <mxGeometry height="30" width="60" x="290" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="-c5naS9hgRaYut2M-Iny-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="网口" vertex="1">
+          <mxGeometry height="30" width="60" x="290" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="-c5naS9hgRaYut2M-Iny-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="RS422" vertex="1">
+          <mxGeometry height="30" width="60" x="170" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="-c5naS9hgRaYut2M-Iny-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="网口" vertex="1">
+          <mxGeometry height="30" width="60" x="170" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-c5naS9hgRaYut2M-Iny-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="RS422" vertex="1">
+          <mxGeometry height="30" width="60" x="170" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="-c5naS9hgRaYut2M-Iny-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="RS422" vertex="1">
+          <mxGeometry height="30" width="60" x="170" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="-c5naS9hgRaYut2M-Iny-22" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.999;exitY=0.358;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="280" y="260" as="sourcePoint" />
+            <mxPoint x="360" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-c5naS9hgRaYut2M-Iny-28" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.001;entryY=0.624;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="139.51999999999998" as="sourcePoint" />
+            <mxPoint x="240" y="139.51999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-c5naS9hgRaYut2M-Iny-30" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.999;exitY=0.358;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="280" y="179.66" as="sourcePoint" />
+            <mxPoint x="360" y="179.66" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
