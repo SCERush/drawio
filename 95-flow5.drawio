@@ -79,7 +79,7 @@
             <mxPoint x="360" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uc5LyBPZUDBUx0uEdSXh-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="缓冲区数据量&lt;div&gt;大于1024&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="uc5LyBPZUDBUx0uEdSXh-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="&lt;div&gt;校验数据帧头&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="132.5" x="293.75" y="340" as="geometry" />
         </mxCell>
         <mxCell id="uc5LyBPZUDBUx0uEdSXh-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="是" vertex="1">
