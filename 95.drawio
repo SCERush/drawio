@@ -1,24 +1,9 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36">
   <diagram name="第 1 页" id="P7U0p2YBgUwdi0rxASiN">
-    <mxGraphModel dx="786" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="911" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FJUeLi_HETRFmbpACcdS-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="320" width="200" x="280" y="80" as="geometry" />
-        </mxCell>
-        <mxCell id="FJUeLi_HETRFmbpACcdS-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;智能增量计算机&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="140" x="310" y="100" as="geometry" />
-        </mxCell>
-        <mxCell id="FJUeLi_HETRFmbpACcdS-5" edge="1" parent="1" source="FJUeLi_HETRFmbpACcdS-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FJUeLi_HETRFmbpACcdS-4" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FJUeLi_HETRFmbpACcdS-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;接收飞控指令与&lt;br&gt;规划数据&lt;/font&gt;" vertex="1">
-          <mxGeometry height="140" width="40" x="400" y="140" as="geometry" />
-        </mxCell>
-        <mxCell id="FJUeLi_HETRFmbpACcdS-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;载荷控制&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;与&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;反馈&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="40" x="320" y="140" as="geometry" />
-        </mxCell>
         <mxCell id="FJUeLi_HETRFmbpACcdS-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="前视摄像头、&lt;br&gt;电子对抗载荷" vertex="1">
           <mxGeometry height="40" width="80" x="120" y="120" as="geometry" />
         </mxCell>
@@ -50,16 +35,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FJUeLi_HETRFmbpACcdS-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="飞行控制&lt;div&gt;与管理软件&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="80" x="560" y="180" as="geometry" />
+          <mxGeometry height="40" width="80" x="440" y="180" as="geometry" />
         </mxCell>
         <mxCell id="FJUeLi_HETRFmbpACcdS-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="集群协同&lt;div&gt;中转软件&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="80" x="560" y="300" as="geometry" />
+          <mxGeometry height="40" width="80" x="440" y="300" as="geometry" />
         </mxCell>
         <mxCell id="FJUeLi_HETRFmbpACcdS-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="RS422" vertex="1">
-          <mxGeometry height="30" width="60" x="490" y="170" as="geometry" />
+          <mxGeometry height="30" width="60" x="370" y="170" as="geometry" />
         </mxCell>
         <mxCell id="FJUeLi_HETRFmbpACcdS-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="网口" vertex="1">
-          <mxGeometry height="30" width="60" x="490" y="290" as="geometry" />
+          <mxGeometry height="30" width="60" x="370" y="290" as="geometry" />
         </mxCell>
         <mxCell id="FJUeLi_HETRFmbpACcdS-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="RS422" vertex="1">
           <mxGeometry height="30" width="60" x="210" y="110" as="geometry" />
@@ -73,36 +58,16 @@
         <mxCell id="FJUeLi_HETRFmbpACcdS-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="RS422" vertex="1">
           <mxGeometry height="30" width="60" x="210" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="FJUeLi_HETRFmbpACcdS-32" edge="1" parent="1" source="FJUeLi_HETRFmbpACcdS-1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.374;exitDx=0;exitDy=0;exitPerimeter=0;" target="FJUeLi_HETRFmbpACcdS-17" value="">
+        <mxCell id="FJUeLi_HETRFmbpACcdS-32" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="FJUeLi_HETRFmbpACcdS-17" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="400" y="240" as="sourcePoint" />
-            <mxPoint x="450" y="190" as="targetPoint" />
+            <mxPoint x="360" y="200" as="sourcePoint" />
+            <mxPoint x="330" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FJUeLi_HETRFmbpACcdS-33" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.999;exitY=0.358;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="480" y="319.17" as="sourcePoint" />
-            <mxPoint x="560" y="319.17" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FJUeLi_HETRFmbpACcdS-38" edge="1" parent="1" source="FJUeLi_HETRFmbpACcdS-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="FJUeLi_HETRFmbpACcdS-37">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="280" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FJUeLi_HETRFmbpACcdS-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;协同控制&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="40" x="320" y="240" as="geometry" />
-        </mxCell>
-        <mxCell id="FJUeLi_HETRFmbpACcdS-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;规划&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;与&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;协同指令&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="40" x="320" y="290" as="geometry" />
-        </mxCell>
-        <mxCell id="FJUeLi_HETRFmbpACcdS-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;飞行控制与&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;管理&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="40" x="400" y="290" as="geometry" />
-        </mxCell>
-        <mxCell id="FJUeLi_HETRFmbpACcdS-41" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="FJUeLi_HETRFmbpACcdS-40" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="360" y="330" as="sourcePoint" />
-            <mxPoint x="350" y="280" as="targetPoint" />
+            <mxPoint x="360" y="319.17" as="sourcePoint" />
+            <mxPoint x="440" y="319.17" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-yjdLRFRVeEzjYulkgjf-1" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.001;entryY=0.624;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
@@ -110,6 +75,15 @@
             <mxPoint x="200" y="139.52" as="sourcePoint" />
             <mxPoint x="280" y="139.52" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="nF4p7uXvaDGCGh-oj6Ey-3" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="320" width="80" x="280" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FJUeLi_HETRFmbpACcdS-1" parent="nF4p7uXvaDGCGh-oj6Ey-3" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="320" width="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FJUeLi_HETRFmbpACcdS-2" parent="nF4p7uXvaDGCGh-oj6Ey-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;载荷控制软件&lt;/font&gt;" vertex="1">
+          <mxGeometry height="145" width="40" x="20" y="87.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
